@@ -2,10 +2,7 @@ import java.lang.*;
 import java.util.*;
 import Classes.*;
 
-/*Project: Library management system Group 6
-Avijit Saha Anto: 21-44630-1
-Tarikul Islam Nishat: 21-44632-1
-Mohammad Rafiul Haque: 21-44631-1
+/*Project: Library management system 
 Features:
 *Multi-user login
 *Insert/Remove/Search Readers,Employee,Books
