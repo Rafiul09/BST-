@@ -1,0 +1,6 @@
+* 1234 * Onepiece AuthorA 10000 ** 0 ** Adventure
+* 104 * Hilda AuthorB 10000 ** 11 ** Comedy
+* 1321 * Steven_Universe AuthorC 1200.0 ** 12 ** Horror
+* 2313 * Amphibia AuthorD 1200.0 ** 12 ** Action
+* 1232 * Gravity_falls Alex 1230.0 ** 23 ** Mystery
+* 5698 * BooKD RAFIUL 8989.0 ** 56 ** Mystery 
