@@ -11,7 +11,7 @@ Features:
 *Withdraw,Deposit currency for Reader purchase & Employee Salary
 
 -----------------------------------------------------------------
-This project is based on file handling so before running please change the file addresses on classes file
+*This project is based on file handling so before running please change the file addresses on classes file
 
 Admin username : a
 
